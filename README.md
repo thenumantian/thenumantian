@@ -9,7 +9,7 @@
     </section>
     <section class="content">
         <div class="container">
-            <h2 id="projects">Projects</h2>
+            <h2 id="--projects--">Projects</h2>
             <p>Here you can find a collection of my projects.</p>
             <h2 id="about">About</h2>
             <p>Learn more about me and my background.</p>
