@@ -4,7 +4,7 @@
     <section class="showcase">
         <div class="container">
             <h1>Welcome to My GitHub Profile- The Numantian - </h1>
-            <p>-*--Explore my projects and get to know more about my work--*-.</p>
+            <p>-**--Explore my projects and get to know more about my work--**-.</p>
         </div>
     </section>
     <section class="content">
